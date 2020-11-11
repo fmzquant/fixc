@@ -4,11 +4,13 @@ simple FIX protocol client for golang
 ## FMZ FIX协议插件程序
 
 - 项目目录：
+
   .
   ├── main.go
   ├── fixc
        ├── fix_client.go
        ├── msgtype.go
+
 
   
   main.go : 插件程序，衔接托管者程序（FMZ托管者程序robot）和交易所接口，使交易所接口通过插件程序接入到FMZ平台。
