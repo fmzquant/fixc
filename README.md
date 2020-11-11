@@ -5,11 +5,15 @@ simple FIX protocol client for golang
 
 - 项目目录：
 
-  .
-  ├── main.go
-  ├── fixc
-       ├── fix_client.go
-       ├── msgtype.go
+.
+├── main.go
+
+├── fixc
+
+    ├── fix_client.go
+
+    ├── msgtype.go
+    
 
 
   
